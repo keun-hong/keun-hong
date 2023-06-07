@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is Keun Hong. I'm a cancer biologist 👋
 
 <!--
 **keun-hong/keun-hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
