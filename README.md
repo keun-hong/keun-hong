@@ -1,4 +1,4 @@
-### Hi, I'm Keun Hong, an evolutionary cancer biologist 👋
+### Hi, I'm Keun Hong, an comparative evolutionary biologist 👋
 
 <!--
 #![github stats](https://github-readme-stats.vercel.app/api?username=keun-hong&show_icons=true)
